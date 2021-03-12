@@ -2,4 +2,5 @@
 Logisim files and MIPS assembly code for basic computer organization
 
 ## Table of contents
-- Week 2: MUX, ALU, Carry look-ahead Adders
+- Week 2: MUX, ALU, Carry look-ahead Adder
+- Week 3: Register file, Instruction word, MIPS Assembly
