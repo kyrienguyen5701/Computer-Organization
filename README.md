@@ -7,3 +7,4 @@ Logisim files and MIPS assembly code for basic computer organization
 - Week 4: R-type and I-type instructions, CLU, Instruction Memory, and Program Counter
 - Week 5: Pointers, Byte addressable memory
 - Week 6: Branch and jump
+- Week 7: Functions
