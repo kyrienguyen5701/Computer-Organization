@@ -8,3 +8,4 @@ Logisim files and MIPS assembly code for basic computer organization
 - Week 5: Pointers, Byte addressable memory
 - Week 6: Branch and jump
 - Week 7: Functions
+- Final Project: Own CPU with an assembler written in Python
